@@ -1,21 +1,21 @@
-Player,Assister,Make,AvgPoints,AvgAge,AvgBLK,AvgSTL,AvgAST,Avg3points,Team,rank,Parner,nplay
-Steven Adams,R. Westbrook,184,18.4,27.5,0.75,1.7,6.15,0.145,OKC,1,No1. S. Adams & R. Westbrook,S. Adams
-Nikola Vučević,D. Augustin,183,16.25,29.5,0.55,0.8,4.55,0.3925,ORL,2,No2. N. Vučević & D. Augustin,N. Vučević
-Montrezl Harrell,L. Williams,178,18.3,28.5,0.7,0.85,3.7,0.2685,LAC,3,No3. M. Harrell & L. Williams,M. Harrell
-Jusuf Nurkić,D. Lillard,168,20.7,26,0.9,1.05,5.05,0.236,POR,4,No4. J. Nurkić & D. Lillard,J. Nurkić
-Jerami Grant,R. Westbrook,166,18.25,27,0.9,1.35,5.85,0.341,OKC,5,No5. J. Grant & R. Westbrook,J. Grant
-Paul George,R. Westbrook,164,25.45,29,0.45,2.05,7.4,0.338,OKC,6,No6. P. George & R. Westbrook,P. George
-John Collins,T. Young,163,19.3,20.5,0.4,0.65,5.05,0.336,ATL,7,No7. J. Collins & T. Young,J. Collins
-Willie Cauley-Stein,D. Fox,152,14.6,23,0.6,1.4,4.85,0.4355,SAC,8,No8. W. Cauley-Stein & D. Fox,W. Cauley-Stein
-Joe Harris,D. Russell,148,17.4,24.5,0.2,0.85,4.7,0.4215,BRK,9,No9. J. Harris & D. Russell,J. Harris
-Jamal Murray,N. Jokić,147,19.15,22,0.55,1.15,6.05,0.337,DEN,10,No10. J. Murray & N. Jokić,J. Murray
-Serge Ibaka,K. Lowry,140,14.6,30.5,0.95,0.9,5,0.3185,TOR,11,No11. S. Ibaka & K. Lowry,S. Ibaka
-Buddy Hield,D. Fox,138,19,23.5,0.5,1.15,4.9,0.399,SAC,12,No12. B. Hield & D. Fox,B. Hield
-Myles Turner,D. Collison,137,12.25,26.5,1.4,1.1,3.8,0.3975,IND,13,No13. M. Turner & D. Collison,M. Turner
-J.J. Redick,B. Simmons,136,17.5,28,0.5,0.9,5.2,0.1985,PHI,14,No14. J. Redick & B. Simmons,J. Redick
-Al Horford,K. Irving,130,18.7,29,0.9,1.2,5.55,0.3805,BOS,15,No15. A. Horford & K. Irving,A. Horford
-Nikola Jokić,J. Murray,123,19.15,22,0.55,1.15,6.05,0.337,DEN,16,No16. N. Jokić & J. Murray,N. Jokić
-Giannis Antetokounmpo,E. Bledsoe,122,21.8,26.5,0.95,1.4,5.7,0.2925,MIL,17,No17. G. Antetokounmpo & E. Bledsoe,G. Antetokounmpo
-Klay Thompson,K. Durant,121,23.75,29,0.85,0.9,4.15,0.3775,GSW,18,No18. K. Thompson & K. Durant,K. Thompson
-Anthony Davis,J. Holiday,121,23.55,26.5,1.6,1.6,5.8,0.328,NOP,19,No19. A. Davis & J. Holiday,A. Davis
-Kyle Kuzma,L. James,120,23.05,28.5,0.5,0.95,5.4,0.321,LAL,20,No20. K. Kuzma & L. James,K. Kuzma
+Parner,Make,AvgPoints,AvgAge,AvgBLK,AvgSTL,AvgAST,Avg3points,Team
+No1. S. Adams & R. Westbrook,184,18.4,27.5,0.75,1.7,6.15,0.145,OKC
+No2. N. Vučević & D. Augustin,183,16.25,29.5,0.55,0.8,4.55,0.3925,ORL
+No3. M. Harrell & L. Williams,178,18.3,28.5,0.7,0.85,3.7,0.2685,LAC
+No4. J. Nurkić & D. Lillard,168,20.7,26,0.9,1.05,5.05,0.236,POR
+No5. J. Grant & R. Westbrook,166,18.25,27,0.9,1.35,5.85,0.341,OKC
+No6. P. George & R. Westbrook,164,25.45,29,0.45,2.05,7.4,0.338,OKC
+No7. J. Collins & T. Young,163,19.3,20.5,0.4,0.65,5.05,0.336,ATL
+No8. W. Cauley-Stein & D. Fox,152,14.6,23,0.6,1.4,4.85,0.4355,SAC
+No9. J. Harris & D. Russell,148,17.4,24.5,0.2,0.85,4.7,0.4215,BRK
+No10. J. Murray & N. Jokić,147,19.15,22,0.55,1.15,6.05,0.337,DEN
+No11. S. Ibaka & K. Lowry,140,14.6,30.5,0.95,0.9,5,0.3185,TOR
+No12. B. Hield & D. Fox,138,19,23.5,0.5,1.15,4.9,0.399,SAC
+No13. M. Turner & D. Collison,137,12.25,26.5,1.4,1.1,3.8,0.3975,IND
+No14. J. Redick & B. Simmons,136,17.5,28,0.5,0.9,5.2,0.1985,PHI
+No15. A. Horford & K. Irving,130,18.7,29,0.9,1.2,5.55,0.3805,BOS
+No16. N. Jokić & J. Murray,123,19.15,22,0.55,1.15,6.05,0.337,DEN
+No17. G. Antetokounmpo & E. Bledsoe,122,21.8,26.5,0.95,1.4,5.7,0.2925,MIL
+No18. K. Thompson & K. Durant,121,23.75,29,0.85,0.9,4.15,0.3775,GSW
+No19. A. Davis & J. Holiday,121,23.55,26.5,1.6,1.6,5.8,0.328,NOP
+No20. K. Kuzma & L. James,120,23.05,28.5,0.5,0.95,5.4,0.321,LAL
