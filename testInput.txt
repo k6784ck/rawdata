@@ -1,0 +1,12 @@
+Duke.Beneviento 32 Jack.Beneviento,Mia.Winters,Lucas.Baker,Ethan.Winters
+Ethan.Winters 30 Mia.Winters,Zoe.Baker
+Donna.Beneviento 40 Mia.Winters,Lucas.Baker
+Dvis.Beneviento 100 Ethan.Winters,Jack.Beneviento
+Dvas.Beneviento 22 Zoe.Baker,Jack.Beneviento
+Mia.Winters 33 Ethan.Winters,Lucas.Baker
+Dvos.Beneviento 120 Ethan.Winters,Duke.Beneviento
+Claudia.Beneviento 11 Donna.Beneviento,Zoe.Baker,Duke.Beneviento
+Lucas.Baker 41 Mia.Winters,Zoe.Baker,Jack.Beneviento
+Jack.Beneviento 55 Mia.Winters,Duke.Beneviento
+Zoe.Baker 20 Duke.Beneviento,Mia.Winters
+Chris.Redfield 37 Lucas.Baker,Ethan.Winters,Duke.Beneviento,Jack.Beneviento,Donna.Beneviento,Dvis.Beneviento,Dvas.Beneviento,Dvos.Beneviento
